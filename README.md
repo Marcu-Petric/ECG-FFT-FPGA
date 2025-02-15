@@ -1,4 +1,7 @@
-# FPGA Implementation of ECG Signal Processing Using Fast Fourier Transform (FFT)
+# 🫀 FPGA Implementation of ECG Signal Processing Using Fast Fourier Transform (FFT)
+
+> 📢 **Coming Soon**: Full academic paper on FPGA-based real-time ECG signal processing implementation
+
 
 **Author:** Marcu-Cristian Petric  
 **Affiliation:** Technical University of Cluj-Napoca  
